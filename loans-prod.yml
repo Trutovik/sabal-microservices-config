@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to Sabal loans related prod APIs"
   contactDetails:
-    name: "Kamila Valieva - Product Owner"
+    name: "Kamila Valieva Github - Product Owner"
     email: "kamilavalieva@sabal.com"
   onCallSupport:
     - (723) 656-8709
