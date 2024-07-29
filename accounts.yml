@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Sabal accounts related local APIs"
   contactDetails:
-    name: "John Doe - developer"
+    name: "John Doe Github - developer"
     email: "johndoe@sabal.com"
   onCallSupport:
     - (555) 555-1234
