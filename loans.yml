@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to Sabal loans related local APIs"
   contactDetails:
-    name: "Anna Scherbakova - developer"
+    name: "Anna Scherbakova Github - developer"
     email: "annascherbakova@sabal.com"
   onCallSupport:
     - (452) 456-2176
