@@ -1,0 +1,12 @@
+build:
+  version: "3.0"
+
+cards:
+  message: "Welcome to Sabal cards related local APIs"
+  contactDetails:
+    name: "Connor McDavid - developer"
+    email: "connormcdavid@sabal.com"
+  onCallSupport:
+    - (617) 432-2356
+    - (936) 564-8721
+

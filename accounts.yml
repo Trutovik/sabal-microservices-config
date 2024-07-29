@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+accounts:
+  message: "Welcome to Sabal accounts related local APIs"
+  contactDetails:
+    name: "John Doe - developer"
+    email: "johndoe@sabal.com"
+  onCallSupport:
+    - (555) 555-1234
+    - (555) 555-3210

@@ -1,0 +1,11 @@
+build:
+  version: "3.0"
+
+loans:
+  message: "Welcome to Sabal loans related local APIs"
+  contactDetails:
+    name: "Anna Scherbakova - developer"
+    email: "annascherbakova@sabal.com"
+  onCallSupport:
+    - (452) 456-2176
+    - (546) 764-8934
