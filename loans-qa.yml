@@ -4,7 +4,7 @@ build:
 loans:
   message: "Welcome to Sabal loans related QA APIs"
   contactDetails:
-    name: "Aliona Kostornaya - QA Lead"
+    name: "Aliona Kostornaya Github - QA Lead"
     email: "alionakostornaya@sabal.com"
   onCallSupport:
     - (785) 545-6565
