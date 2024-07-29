@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Sabal accounts related QA APIs"
   contactDetails:
     name: "Joe Biden Github - QA Lead"
-    email: "9f724016d4f3a0837092011fa9f023e4e1bf8acb61aa2f84762e5be0e1147fb94f1bdf3bae574b15a23c0bf9fc439a21"
+    email: "{cipher}9f724016d4f3a0837092011fa9f023e4e1bf8acb61aa2f84762e5be0e1147fb94f1bdf3bae574b15a23c0bf9fc439a21"
   onCallSupport:
     - (666) 265-3765
     - (666) 734-8371
