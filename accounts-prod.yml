@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to Sabal accounts related prod APIs"
   contactDetails:
-    name: "Barack Obama File System - Product Owner"
+    name: "Barack Obama Github - Product Owner"
     email: "barackobama@sabal.com"
   onCallSupport:
     - (453) 392-4829
