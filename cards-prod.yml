@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Sabal cards related prod APIs"
   contactDetails:
-    name: "Sidney Crosby - Product Owner"
+    name: "Sidney Crosby Github - Product Owner"
     email: "sidneycrosby@sabal.com"
   onCallSupport:
     - (723) 656-8709
