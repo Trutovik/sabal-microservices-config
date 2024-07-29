@@ -4,7 +4,7 @@ build:
 cards:
   message: "Welcome to Sabal cards related QA APIs"
   contactDetails:
-    name: "Nathan McKinnon - QA Lead"
+    name: "Nathan McKinnon Github - QA Lead"
     email: "nathanmckinnon@sabal.com"
   onCallSupport:
     - (310) 875-4367
