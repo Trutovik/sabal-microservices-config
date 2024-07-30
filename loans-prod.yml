@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loans:
-  message: "Welcome to Sabal loans related prod APIs"
+  message: "Welcome to Sabal loans related prod bus rabbit mq APIs"
   contactDetails:
     name: "Kamila Valieva Github - Product Owner"
     email: "{cipher}3571a117bb610b9bdd8509f87439d6bd7a6562e0d5b157da461cde7c3e766200cca8e297f1af703bc36efd552103a08b"
