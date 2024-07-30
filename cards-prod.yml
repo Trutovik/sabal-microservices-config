@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to Sabal cards related production APIs"
+  message: "Welcome to Sabal cards related prod APIs"
   contactDetails:
     name: "Sidney Crosby Github - Product Owner"
     email: "{cipher}de14bd9830d8490cc18e4aada4b17f52877ea54a783398f17652615eb1f9797c1e3602ff547baf80fc41c35eb8a347d5"
