@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Sabal accounts related prod APIs"
+  message: "Welcome to Sabal accounts related production APIs"
   contactDetails:
     name: "Barack Obama Github - Product Owner"
     email: "{cipher}729468c62e7b1e66e20a21f0fd33e76afb9e23d9d1bf217c86af3f8e8398a1780d847b96e693b4823d04dccda56380af"
